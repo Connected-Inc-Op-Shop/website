@@ -13,14 +13,14 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "We're a charity and OP Shop that's passionate about aidning our local and overseas communities.",
+            "text": "We're a charity and OP Shop that's passionate about aiding our local and overseas communities.",
             "text_style": "body"
           }
         },
         "8ad256a5-779b-4a3c-8bd6-3f9111bc14a8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "See Our Latest Projects",
+            "button_label_1": "Discover Our Latest Projects",
             "button_link_1": "shopify:\/\/blogs\/news",
             "button_style_secondary_1": true,
             "button_label_2": "Shop Online - NEW!",
@@ -107,45 +107,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>A little about us<\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "90aeaefc-d04b-48fb-b51b-7ba0ff4cc9e9": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "a830a2ed-15d1-4d0c-a05f-5c9767d38078": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "3c82c547-5ccb-4edc-aaea-93d04de655bc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Connected Inc. is a not for profit charity, providing practical aid and assistance to people affected by hardship, domestic violence, natural disasters and the disadvantaged.<\/p><p>To enable us to effectively assist those in need, we rely on revenue generated from sales from our Op Shop. We receive no government funding.<\/p><p>The generous donations we receive from the public, both in donated goods and monetary donations allow us to provide much needed support to those less fortunate within our community.<\/p><p>We also provide a variety of services under the National Disability Insurance Scheme (NDIS).<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "90aeaefc-d04b-48fb-b51b-7ba0ff4cc9e9",
-        "a830a2ed-15d1-4d0c-a05f-5c9767d38078",
-        "3c82c547-5ccb-4edc-aaea-93d04de655bc"
+        "text"
       ],
       "settings": {
         "desktop_content_position": "center",
