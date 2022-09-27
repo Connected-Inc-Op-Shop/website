@@ -203,7 +203,7 @@
   }
 
   .banner:not(.banner--mobile-bottom) .button--secondary {
-    --color-button: 255, 255, 255;
+    --color-button: 253, 162, 71;
     --color-button-text: 255, 255, 255;
     --alpha-button-background: 0;
   }
@@ -328,7 +328,7 @@
   }
 
   .banner--desktop-transparent .button--secondary {
-    --color-button: 255, 255, 255;
+    --color-button: 253, 162, 71;
     --color-button-text: 255, 255, 255;
     --alpha-button-background: 0;
   }
@@ -403,17 +403,13 @@
   margin-top: 1rem;
 }
 
-.banner__buttons .button--secondary {
+.banner__buttons {
   display: inline-flex;
   flex-wrap: wrap;
   gap: 1rem;
   max-width: 45rem;
   word-break: break-word;
   --color-button: 253, 162, 71;
-}
-
-.button--secondary {
-  --color-button-text: 255, 0, 0;
 }
 
 @media screen and (max-width: 749px) {
