@@ -409,7 +409,7 @@
   gap: 1rem;
   max-width: 45rem;
   word-break: break-word;
-  --color-button: 0, 255, 255;
+  --color-button: 253, 162, 71;
 }
 
 @media screen and (max-width: 749px) {
