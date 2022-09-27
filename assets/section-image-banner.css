@@ -412,6 +412,10 @@
   --color-button: 253, 162, 71;
 }
 
+.button--secondary {
+  --color-button-text: 255, 0, 0;
+}
+
 @media screen and (max-width: 749px) {
   .banner--content-align-mobile-right .banner__buttons--multiple {
     justify-content: flex-end;
