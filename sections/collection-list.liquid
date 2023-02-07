@@ -76,7 +76,13 @@
     {%- endif -%}
   </div>
 </div>
-
+{% assign currentCol = collection.handle %}
+    {% for collection in collections %}
+      {% if collection.handle contains currentCol %}
+         {{ collection.title }}
+         // further code 
+      {% endif %}
+    {% endfor %}
 {% schema %}
 {
   "name": "t:sections.collection-list.name",
