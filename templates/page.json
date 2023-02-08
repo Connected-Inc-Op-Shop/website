@@ -2,13 +2,45 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "5585c045-60d1-40e8-8c87-1d1ab4be6548": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15877769527483__5585c045-60d1-40e8-8c87-1d1ab4be6548-1675815976bf0f5a79-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Good Citizenship Donations<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--15877769527483__5585c045-60d1-40e8-8c87-1d1ab4be6548-1675815976bf0f5a79-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As part of Connected Inc’s Good Citizenship philosophy, we donate $500 every month to acharity nominated solely by our volunteers. Past recipients ofthese cash donations have included for example, Rural Aid, Young Care, Mummy’s Wish, Buy a Bale, just to name a few.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769527483__5585c045-60d1-40e8-8c87-1d1ab4be6548-1675815976bf0f5a79-0",
+        "template--15877769527483__5585c045-60d1-40e8-8c87-1d1ab4be6548-1675815976bf0f5a79-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "5585c045-60d1-40e8-8c87-1d1ab4be6548"
   ]
 }
