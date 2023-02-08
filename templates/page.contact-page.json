@@ -2,13 +2,62 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "527455a9-3712-428a-a31f-7e00225d1452": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16103722746043__527455a9-3712-428a-a31f-7e00225d1452-1675819410aa241feb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The OP Shop",
+            "heading_size": "h1"
+          }
+        },
+        "template--16103722746043__527455a9-3712-428a-a31f-7e00225d1452-1675819410aa241feb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our OP Shop is located in the back of an industrial park. This map shows how to reach us off St Vincents Road.<\/p><p><strong>Opening Hours: 9am-2:45pm Tuesday to Saturday<\/strong><\/p><p><strong>Address: <\/strong><a href=\"https:\/\/goo.gl\/maps\/FtJY8VTUQPGvLPUM9\"><strong>Unit 4 A\/143 St Vincents Rd, Virginia QLD 4012<\/strong><\/a><\/p><p><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16103722746043__527455a9-3712-428a-a31f-7e00225d1452-1675819410aa241feb-0",
+        "template--16103722746043__527455a9-3712-428a-a31f-7e00225d1452-1675819410aa241feb-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/map_to_shop.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "437c3cad-c4dc-4cea-92c6-c6433d383e7a": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact Us",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "527455a9-3712-428a-a31f-7e00225d1452",
+    "437c3cad-c4dc-4cea-92c6-c6433d383e7a"
   ]
 }
