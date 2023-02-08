@@ -67,11 +67,73 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "21850ebf-c447-4f2f-9e80-24072a563733": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "$500 Monthly Donations",
+            "icon": "none",
+            "row_content": "<p>As part of Connected Inc’s Good Citizenship philosophy, we donate $500 every month to acharity nominated solely by our volunteers. Past recipients ofthese cash donations have included for example, Rural Aid, Young Care, Mummy’s Wish, Buy a Bale, just to name a few.<\/p>",
+            "page": ""
+          }
+        },
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Overseas Donations",
+            "icon": "none",
+            "row_content": "<p>Our Charity over the years have either fully supplied\/funded, or significantly contributed towards the supply of over sixty shipping containers to our pacific neighbors, such as Fiji, Vanuatu, Tonga, Papua New Guinea and Solomon Islands. <br\/>Items supplied have included essential day to day living items, school supplies, clothing, medical and hospital supplies.<\/p>",
+            "page": "donations"
+          }
+        },
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-0",
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-1",
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-2",
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "What We Donate",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "5585c045-60d1-40e8-8c87-1d1ab4be6548",
-    "6d0d19e0-d0a5-4006-8f7a-1b76a225872c"
+    "6d0d19e0-d0a5-4006-8f7a-1b76a225872c",
+    "21850ebf-c447-4f2f-9e80-24072a563733"
   ]
 }
