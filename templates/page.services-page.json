@@ -37,36 +37,16 @@
             "row_content": "",
             "page": "ndis-support"
           }
-        },
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Item Donations",
-            "icon": "none",
-            "row_content": "",
-            "page": "item-donations"
-          }
-        },
-        "03c27736-dd2f-4590-b558-95b3a29f9276": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Monetary Donations",
-            "icon": "none",
-            "row_content": "",
-            "page": "monetary-donations"
-          }
         }
       },
       "block_order": [
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-0",
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-1",
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2",
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-3",
-        "03c27736-dd2f-4590-b558-95b3a29f9276"
+        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2"
       ],
       "settings": {
         "caption": "",
-        "heading": "Seervices We Provide",
+        "heading": "Services We Provide",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
