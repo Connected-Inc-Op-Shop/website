@@ -2,138 +2,13 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "21850ebf-c447-4f2f-9e80-24072a563733": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "$500 Monthly Donations",
-            "icon": "none",
-            "row_content": "",
-            "page": "good-citizenship"
-          }
-        },
-        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Overseas Donations",
-            "icon": "none",
-            "row_content": "",
-            "page": "overseas-donations"
-          }
-        },
-        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Item Donations to Other Organisations",
-            "icon": "none",
-            "row_content": "",
-            "page": "item-donations-to-other-organisations"
-          }
-        }
-      },
-      "block_order": [
-        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-0",
-        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-1",
-        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-2"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "What We Donate",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "accent-2",
-        "container_color_scheme": "accent-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "60eff4e6-40dc-484c-8fdd-6a910268fabe": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Volunteers",
-            "icon": "none",
-            "row_content": "",
-            "page": "volunteers"
-          }
-        },
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Disability Volunteers",
-            "icon": "none",
-            "row_content": "",
-            "page": "disability-volunteers"
-          }
-        },
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Sponsorships",
-            "icon": "none",
-            "row_content": "",
-            "page": "sponsorships"
-          }
-        },
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Item Donations",
-            "icon": "none",
-            "row_content": "",
-            "page": "item-donations"
-          }
-        },
-        "03c27736-dd2f-4590-b558-95b3a29f9276": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Monetary Donations",
-            "icon": "none",
-            "row_content": "",
-            "page": "monetary-donations"
-          }
-        }
-      },
-      "block_order": [
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-0",
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-1",
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2",
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-3",
-        "03c27736-dd2f-4590-b558-95b3a29f9276"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "How You Can Contribute",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "main",
-    "21850ebf-c447-4f2f-9e80-24072a563733",
-    "60eff4e6-40dc-484c-8fdd-6a910268fabe"
+    "main"
   ]
 }
