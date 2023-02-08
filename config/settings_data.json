@@ -163,8 +163,15 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Find U",
               "menu": "footer"
+            }
+          },
+          "04f7e491-5e03-416f-94a9-b5c2f017f890": {
+            "type": "text",
+            "settings": {
+              "heading": "About Our Charity",
+              "subtext": "<p>Connected Inc is a not for profit charity, providing practical aid and assistance to people affected by hardship, domestic violence, natural disasters and the disadvantaged. We also provide a variety of services under the National Disability Insurance Scheme (NDIS).<\/p><p>ABN 64 959 580 621<\/p><p>NDIS Registration Provider ID: 4-4331-4144<\/p>"
             }
           },
           "footer-1": {
@@ -173,11 +180,20 @@
               "heading": "Info",
               "menu": "footer-menu-info"
             }
+          },
+          "d802849c-0d38-4fed-b0dc-31156e2194c4": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact Us",
+              "subtext": "<p><strong>Address:<\/strong> <a href=\"https:\/\/goo.gl\/maps\/FtJY8VTUQPGvLPUM9\">Shed 4a, 143 St. Vincents Road Virginia. QLD 4014<\/a><\/p><p><strong>Hours:<\/strong> 9:00AM–2:45PM Tuesday to Saturday<\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1"
+          "04f7e491-5e03-416f-94a9-b5c2f017f890",
+          "footer-1",
+          "d802849c-0d38-4fed-b0dc-31156e2194c4"
         ],
         "settings": {
           "color_scheme": "background-2",
