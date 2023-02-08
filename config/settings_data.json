@@ -160,11 +160,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
+          "d802849c-0d38-4fed-b0dc-31156e2194c4": {
+            "type": "text",
             "settings": {
-              "heading": "Find U",
-              "menu": "footer"
+              "heading": "Contact Us",
+              "subtext": "<p><strong>Address:<\/strong> <a href=\"https:\/\/goo.gl\/maps\/FtJY8VTUQPGvLPUM9\">Shed 4a, 143 St. Vincents Road Virginia. QLD 4014<\/a><\/p><p><strong>Hours:<\/strong> 9:00AM–2:45PM Tuesday to Saturday<\/p>"
             }
           },
           "04f7e491-5e03-416f-94a9-b5c2f017f890": {
@@ -173,36 +173,20 @@
               "heading": "About Our Charity",
               "subtext": "<p>Connected Inc is a not for profit charity, providing practical aid and assistance to people affected by hardship, domestic violence, natural disasters and the disadvantaged. We also provide a variety of services under the National Disability Insurance Scheme (NDIS).<\/p><p>ABN 64 959 580 621<\/p><p>NDIS Registration Provider ID: 4-4331-4144<\/p>"
             }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
-              "menu": "footer-menu-info"
-            }
-          },
-          "d802849c-0d38-4fed-b0dc-31156e2194c4": {
-            "type": "text",
-            "settings": {
-              "heading": "Contact Us",
-              "subtext": "<p><strong>Address:<\/strong> <a href=\"https:\/\/goo.gl\/maps\/FtJY8VTUQPGvLPUM9\">Shed 4a, 143 St. Vincents Road Virginia. QLD 4014<\/a><\/p><p><strong>Hours:<\/strong> 9:00AM–2:45PM Tuesday to Saturday<\/p>"
-            }
           }
         },
         "block_order": [
-          "footer-0",
-          "04f7e491-5e03-416f-94a9-b5c2f017f890",
-          "footer-1",
-          "d802849c-0d38-4fed-b0dc-31156e2194c4"
+          "d802849c-0d38-4fed-b0dc-31156e2194c4",
+          "04f7e491-5e03-416f-94a9-b5c2f017f890"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "accent-2",
           "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
-          "show_social": false,
+          "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
-          "payment_enable": false,
+          "payment_enable": true,
           "margin_top": 20,
           "padding_top": 16,
           "padding_bottom": 20
