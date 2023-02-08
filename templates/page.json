@@ -14,8 +14,8 @@
         "template--15877769527483__5585c045-60d1-40e8-8c87-1d1ab4be6548-1675815976bf0f5a79-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Good Citizenship Donations<\/p>",
-            "heading_size": "h2"
+            "heading": "<p>Monthly Donations<\/p>",
+            "heading_size": "h1"
           }
         },
         "template--15877769527483__5585c045-60d1-40e8-8c87-1d1ab4be6548-1675815976bf0f5a79-1": {
@@ -37,10 +37,41 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "6d0d19e0-d0a5-4006-8f7a-1b76a225872c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15877769527483__6d0d19e0-d0a5-4006-8f7a-1b76a225872c-1675815976bf0f5a79-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Overseas Donations<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769527483__6d0d19e0-d0a5-4006-8f7a-1b76a225872c-1675815976bf0f5a79-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Charity over the years have either fully supplied\/funded, or significantly contributed towards the supply of over sixty shipping containers to our pacific neighbors, such as Fiji, Vanuatu, Tonga, Papua New Guinea and Solomon Islands. <br\/>Items supplied have included essential day to day living items, school supplies, clothing, medical and hospital supplies.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769527483__6d0d19e0-d0a5-4006-8f7a-1b76a225872c-1675815976bf0f5a79-0",
+        "template--15877769527483__6d0d19e0-d0a5-4006-8f7a-1b76a225872c-1675815976bf0f5a79-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "5585c045-60d1-40e8-8c87-1d1ab4be6548"
+    "5585c045-60d1-40e8-8c87-1d1ab4be6548",
+    "6d0d19e0-d0a5-4006-8f7a-1b76a225872c"
   ]
 }
