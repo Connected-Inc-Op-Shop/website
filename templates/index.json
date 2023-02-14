@@ -6,15 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Helping Communities",
+            "heading": "Connected Inc",
             "heading_size": "h0"
           }
         },
-        "text": {
+        "4b9b8248-5f58-4638-8fd8-27837a118c59": {
           "type": "text",
           "settings": {
             "text": "We're a charity and OP Shop that's passionate about aiding our local and overseas communities.",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         },
         "8ad256a5-779b-4a3c-8bd6-3f9111bc14a8": {
@@ -31,7 +31,7 @@
       },
       "block_order": [
         "heading",
-        "text",
+        "4b9b8248-5f58-4638-8fd8-27837a118c59",
         "8ad256a5-779b-4a3c-8bd6-3f9111bc14a8"
       ],
       "settings": {
