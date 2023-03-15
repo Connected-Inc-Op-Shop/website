@@ -11,24 +11,6 @@
     "60eff4e6-40dc-484c-8fdd-6a910268fabe": {
       "type": "collapsible-content",
       "blocks": {
-        "afd13ee2-ec0b-4d54-b66a-0ddeca1f7330": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Partnerships with Welfare Service Providers",
-            "icon": "none",
-            "row_content": "",
-            "page": "partnerships-with-welfare-service-providers"
-          }
-        },
-        "7dd69e96-e649-434f-96c9-5454bcdf0453": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collection of Donations",
-            "icon": "none",
-            "row_content": "",
-            "page": "collection-of-donations"
-          }
-        },
         "688fa339-5ed9-4a37-9fdf-95aacd824256": {
           "type": "collapsible_row",
           "settings": {
@@ -36,6 +18,15 @@
             "icon": "none",
             "row_content": "",
             "page": "delivery-service"
+          }
+        },
+        "afd13ee2-ec0b-4d54-b66a-0ddeca1f7330": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Partnerships with Welfare Service Providers",
+            "icon": "none",
+            "row_content": "",
+            "page": "partnerships-with-welfare-service-providers"
           }
         },
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-0": {
@@ -64,15 +55,24 @@
             "row_content": "",
             "page": "ndis-support"
           }
+        },
+        "7dd69e96-e649-434f-96c9-5454bcdf0453": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collection of Donations",
+            "icon": "none",
+            "row_content": "",
+            "page": "collection-of-donations"
+          }
         }
       },
       "block_order": [
-        "afd13ee2-ec0b-4d54-b66a-0ddeca1f7330",
-        "7dd69e96-e649-434f-96c9-5454bcdf0453",
         "688fa339-5ed9-4a37-9fdf-95aacd824256",
+        "afd13ee2-ec0b-4d54-b66a-0ddeca1f7330",
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-0",
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-1",
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2"
+        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2",
+        "7dd69e96-e649-434f-96c9-5454bcdf0453"
       ],
       "settings": {
         "caption": "",
