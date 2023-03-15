@@ -29,15 +29,6 @@
             "page": "disability-volunteers"
           }
         },
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Sponsorships",
-            "icon": "none",
-            "row_content": "",
-            "page": "sponsorships"
-          }
-        },
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-3": {
           "type": "collapsible_row",
           "settings": {
@@ -45,6 +36,15 @@
             "icon": "none",
             "row_content": "",
             "page": "item-donations"
+          }
+        },
+        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sponsorships",
+            "icon": "none",
+            "row_content": "",
+            "page": "sponsorships"
           }
         },
         "03c27736-dd2f-4590-b558-95b3a29f9276": {
@@ -60,8 +60,8 @@
       "block_order": [
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-0",
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-1",
-        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2",
         "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-3",
+        "template--15877769527483__60eff4e6-40dc-484c-8fdd-6a910268fabe-16758164555e5e73c4-2",
         "03c27736-dd2f-4590-b558-95b3a29f9276"
       ],
       "settings": {
