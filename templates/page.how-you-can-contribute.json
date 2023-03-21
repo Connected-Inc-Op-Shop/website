@@ -50,7 +50,7 @@
         "03c27736-dd2f-4590-b558-95b3a29f9276": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Monetary Donations",
+            "heading": "Deductible Gift Recipient (DGR)",
             "icon": "none",
             "row_content": "",
             "page": "monetary-donations"
