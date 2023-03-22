@@ -127,7 +127,7 @@
           "c7c8875e-d1e4-4c8d-b3b6-3a985c261e22": {
             "type": "announcement",
             "settings": {
-              "text": "This Month's Donation: $$$$ to Test Group",
+              "text": "This Month's Donation Nominated by Our Volunteers is $$$$ to Test Group",
               "text_alignment": "center",
               "color_scheme": "accent-2",
               "link": "shopify:\/\/pages\/donations"
