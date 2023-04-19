@@ -54,7 +54,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
+            "content": "<p><strong>Delivery<\/strong><\/p><p>Postage Delivery  through Sendle and calculated at checkout<\/p><p><\/p><p><strong>Refunds<\/strong><\/p><p>If your purchased item is broken, faulty or notably different to its description, you can request a refund within 7 days of purchase. A full refund will be issued for the cost of the item including postage.<\/p><p>For change of mind however customers must cover the return shipping costs<\/p>",
             "page": ""
           }
         },
