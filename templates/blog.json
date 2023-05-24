@@ -31,7 +31,7 @@
         "template--15877769101499__005bb496-9cd5-485c-aa96-6ca8b43dba26-1684802061a37667d7-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -53,10 +53,100 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "7291115f-8d91-431a-839a-fdf5da51d421": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__7291115f-8d91-431a-839a-fdf5da51d421-1684885862feaced4a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Financial Donation to Tongan Community",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__7291115f-8d91-431a-839a-fdf5da51d421-1684885862feaced4a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wayne Malmstone our Warehouse and Retail Manager presenting Alfie a financial donation and clothing, to assist our Tongan friends, to obtain winter clothing whilst working in remote locations throughout Queensland.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__7291115f-8d91-431a-839a-fdf5da51d421-1684885862feaced4a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__7291115f-8d91-431a-839a-fdf5da51d421-1684885862feaced4a-0",
+        "template--15877769101499__7291115f-8d91-431a-839a-fdf5da51d421-1684885862feaced4a-1",
+        "template--15877769101499__7291115f-8d91-431a-839a-fdf5da51d421-1684885862feaced4a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8771.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec-1684885862feaced4a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Volunteers Week",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec-1684885862feaced4a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Connected Inc celebrated Volunteers Week with a morning tea, photographed below is two of our fantastic volunteers, Bonny and Jo.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec-1684885862feaced4a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec-1684885862feaced4a-0",
+        "template--15877769101499__be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec-1684885862feaced4a-1",
+        "template--15877769101499__be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec-1684885862feaced4a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8780.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "005bb496-9cd5-485c-aa96-6ca8b43dba26"
+    "005bb496-9cd5-485c-aa96-6ca8b43dba26",
+    "7291115f-8d91-431a-839a-fdf5da51d421",
+    "be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec"
   ]
 }
