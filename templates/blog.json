@@ -12,46 +12,48 @@
         "padding_bottom": 36
       }
     },
-    "005bb496-9cd5-485c-aa96-6ca8b43dba26": {
-      "type": "rich-text",
+    "979c5ec0-49b5-4781-beff-9a360efa82bc": {
+      "type": "image-with-text",
       "blocks": {
-        "template--15877769101499__005bb496-9cd5-485c-aa96-6ca8b43dba26-1684802061a37667d7-0": {
+        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Half Price Sale!<\/p>",
+            "heading": "Half Price Sale !",
             "heading_size": "h1"
           }
         },
-        "template--15877769101499__005bb496-9cd5-485c-aa96-6ca8b43dba26-1684802061a37667d7-1": {
+        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>On all dinner services, crockery and toys.<\/p><p><\/p><p>Finishes at close of business Sat 27\/5\/23<\/p>"
+            "text": "<p>Half Price Sale on All Glassware and Toys<\/p><p>Finishes at close of business Saturday 3\/6\/23<\/p>",
+            "text_style": "body"
           }
         },
-        "template--15877769101499__005bb496-9cd5-485c-aa96-6ca8b43dba26-1684802061a37667d7-2": {
+        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-2": {
           "type": "button",
           "settings": {
             "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--15877769101499__005bb496-9cd5-485c-aa96-6ca8b43dba26-1684802061a37667d7-0",
-        "template--15877769101499__005bb496-9cd5-485c-aa96-6ca8b43dba26-1684802061a37667d7-1",
-        "template--15877769101499__005bb496-9cd5-485c-aa96-6ca8b43dba26-1684802061a37667d7-2"
+        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-0",
+        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-1",
+        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/350244913_641631307869858_6617864730451008133_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "7291115f-8d91-431a-839a-fdf5da51d421": {
@@ -145,7 +147,7 @@
   },
   "order": [
     "main",
-    "005bb496-9cd5-485c-aa96-6ca8b43dba26",
+    "979c5ec0-49b5-4781-beff-9a360efa82bc",
     "7291115f-8d91-431a-839a-fdf5da51d421",
     "be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec"
   ]
