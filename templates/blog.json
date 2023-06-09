@@ -12,24 +12,24 @@
         "padding_bottom": 36
       }
     },
-    "979c5ec0-49b5-4781-beff-9a360efa82bc": {
+    "f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d": {
       "type": "image-with-text",
       "blocks": {
-        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-0": {
+        "template--15877769101499__f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d-16862676727a0a61a1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Half Price Sale !",
+            "heading": "Donations to Sierra Leone, West Africa",
             "heading_size": "h1"
           }
         },
-        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-1": {
+        "template--15877769101499__f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d-16862676727a0a61a1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Half Price Sale on All Glassware and Toys<\/p><p>Finishes at close of business Saturday 3\/6\/23<\/p>",
+            "text": "",
             "text_style": "body"
           }
         },
-        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-2": {
+        "template--15877769101499__f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d-16862676727a0a61a1-2": {
           "type": "button",
           "settings": {
             "button_label": "",
@@ -38,15 +38,103 @@
         }
       },
       "block_order": [
-        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-0",
-        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-1",
-        "template--15877769101499__979c5ec0-49b5-4781-beff-9a360efa82bc-168549059267012d1f-2"
+        "template--15877769101499__f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d-16862676727a0a61a1-0",
+        "template--15877769101499__f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d-16862676727a0a61a1-1",
+        "template--15877769101499__f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d-16862676727a0a61a1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/350244913_641631307869858_6617864730451008133_n.jpg",
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8842_1.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "40c77a03-13b3-41c1-a61e-28f4617be33c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__40c77a03-13b3-41c1-a61e-28f4617be33c-16862676727a0a61a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__40c77a03-13b3-41c1-a61e-28f4617be33c-16862676727a0a61a1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lee and  Peter from Connected Inc arranging delivery of donated items<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__40c77a03-13b3-41c1-a61e-28f4617be33c-16862676727a0a61a1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__40c77a03-13b3-41c1-a61e-28f4617be33c-16862676727a0a61a1-0",
+        "template--15877769101499__40c77a03-13b3-41c1-a61e-28f4617be33c-16862676727a0a61a1-1",
+        "template--15877769101499__40c77a03-13b3-41c1-a61e-28f4617be33c-16862676727a0a61a1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8845_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c23eda63-bdd3-463d-a2b7-b14724811996": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__c23eda63-bdd3-463d-a2b7-b14724811996-16862676727a0a61a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__c23eda63-bdd3-463d-a2b7-b14724811996-16862676727a0a61a1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Connected Inc operates one of Brisbane’s Biggest and Best Op Shops, whilst also assisting those in our community affected by Domestic Violence, Homelessness and the Disadvantaged. Connected Inc is also as a registered disability service provider whose services to this sector, are second to none.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__c23eda63-bdd3-463d-a2b7-b14724811996-16862676727a0a61a1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__c23eda63-bdd3-463d-a2b7-b14724811996-16862676727a0a61a1-0",
+        "template--15877769101499__c23eda63-bdd3-463d-a2b7-b14724811996-16862676727a0a61a1-1",
+        "template--15877769101499__c23eda63-bdd3-463d-a2b7-b14724811996-16862676727a0a61a1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8846_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -90,7 +178,7 @@
         "image": "shopify:\/\/shop_images\/thumbnail_IMG_8771.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -98,6 +186,18 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "28ebb4d1-e2e0-4e71-8349-50116470a1e3": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec": {
@@ -134,7 +234,7 @@
         "image": "shopify:\/\/shop_images\/thumbnail_IMG_8780.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -147,8 +247,11 @@
   },
   "order": [
     "main",
-    "979c5ec0-49b5-4781-beff-9a360efa82bc",
+    "f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d",
+    "40c77a03-13b3-41c1-a61e-28f4617be33c",
+    "c23eda63-bdd3-463d-a2b7-b14724811996",
     "7291115f-8d91-431a-839a-fdf5da51d421",
+    "28ebb4d1-e2e0-4e71-8349-50116470a1e3",
     "be6ea7ef-d12c-4b4a-a6c8-f1c9a4a84bec"
   ]
 }
