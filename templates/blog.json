@@ -12,6 +12,94 @@
         "padding_bottom": 36
       }
     },
+    "7c03e63a-e52b-439e-b741-6c82fcc449a7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__7c03e63a-e52b-439e-b741-6c82fcc449a7-16873011745a37de06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Half Price Sale! Storewide!",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__7c03e63a-e52b-439e-b741-6c82fcc449a7-16873011745a37de06-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Commences Thursday 22 June and finishes on close of business Saturday 24 June.<\/p><p>Our prices are recognised as being as one of the best value for money OP Shops in Brisbane. So come and visit and see why we are One of Brisbane's Biggest and Best Op Shops.<\/p><p>You may also know that Connected Inc supports those in our community affected by Homelessness, Domestic Violence and the Disadvantaged. This is achieved by supplying a great variety of essential day to day living items (furniture, bedding, manchester etc.) free of charge via recognised welfare service providers.<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__7c03e63a-e52b-439e-b741-6c82fcc449a7-16873011745a37de06-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__7c03e63a-e52b-439e-b741-6c82fcc449a7-16873011745a37de06-0",
+        "template--15877769101499__7c03e63a-e52b-439e-b741-6c82fcc449a7-16873011745a37de06-1",
+        "template--15877769101499__7c03e63a-e52b-439e-b741-6c82fcc449a7-16873011745a37de06-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8869.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d9aaac7b-9163-4aa8-89c1-7e1318f91a2f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__d9aaac7b-9163-4aa8-89c1-7e1318f91a2f-16873011745a37de06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__d9aaac7b-9163-4aa8-89c1-7e1318f91a2f-16873011745a37de06-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is a \"win win\", our customers purchase items at fantastic prices and this allows us to give back to our community in so many different ways every day of the week.<\/p><p>You may also not be aware, but Connected Inc donates $500 each and every month of the year to any worthwhile charity that is wholly nominated by our great volunteers.<\/p><p>Some of our past recipients of our monetary donations have been;<\/p><ul><li>Rosie's<\/li><li>Beddown<\/li><li>Aussie Helpers<\/li><li>Backpack Beds for the Homeless<\/li><li>QCWA Public Rural Crisis Fund<\/li><li>Youngcare<\/li><\/ul><p>So please come along and enjoy a memorable OP Shopping experience, knowing you are also playing your part in supporting our community.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__d9aaac7b-9163-4aa8-89c1-7e1318f91a2f-16873011745a37de06-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__d9aaac7b-9163-4aa8-89c1-7e1318f91a2f-16873011745a37de06-0",
+        "template--15877769101499__d9aaac7b-9163-4aa8-89c1-7e1318f91a2f-16873011745a37de06-1",
+        "template--15877769101499__d9aaac7b-9163-4aa8-89c1-7e1318f91a2f-16873011745a37de06-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8855.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d": {
       "type": "image-with-text",
       "blocks": {
@@ -90,7 +178,7 @@
         "image": "shopify:\/\/shop_images\/thumbnail_IMG_8845_1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -247,6 +335,8 @@
   },
   "order": [
     "main",
+    "7c03e63a-e52b-439e-b741-6c82fcc449a7",
+    "d9aaac7b-9163-4aa8-89c1-7e1318f91a2f",
     "f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d",
     "40c77a03-13b3-41c1-a61e-28f4617be33c",
     "c23eda63-bdd3-463d-a2b7-b14724811996",
