@@ -12,6 +12,50 @@
         "padding_bottom": 36
       }
     },
+    "2c630f26-328e-433f-a993-839aeb8e6dc9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Half Price Sale on Furniture!",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Two days only! <\/p><p> Friday 14 July and Saturday 15 July on all furniture on shop floor<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-0",
+        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-1",
+        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/360044325_234210059431633_7894948581674085950_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "06b825c5-f7a8-44c5-b1bc-a954603e9a82": {
       "type": "image-with-text",
       "blocks": {
@@ -423,6 +467,7 @@
   },
   "order": [
     "main",
+    "2c630f26-328e-433f-a993-839aeb8e6dc9",
     "06b825c5-f7a8-44c5-b1bc-a954603e9a82",
     "282d6794-3dc5-42ee-9df3-72aa5ee14571",
     "7c03e63a-e52b-439e-b741-6c82fcc449a7",
