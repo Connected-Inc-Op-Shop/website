@@ -12,38 +12,38 @@
         "padding_bottom": 36
       }
     },
-    "2c630f26-328e-433f-a993-839aeb8e6dc9": {
+    "3d0e7783-5c3e-4c05-94ed-c952c13bfbcb": {
       "type": "image-with-text",
       "blocks": {
-        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-0": {
+        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-0": {
           "type": "heading",
           "settings": {
-            "heading": "Half Price Sale on Furniture!",
+            "heading": "Half Price Sale - Kitchen Stock",
             "heading_size": "h1"
           }
         },
-        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-1": {
+        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Two days only! <\/p><p> Friday 14 July and Saturday 15 July on all furniture on shop floor<\/p>",
+            "text": "<p>Includes Plasticware\/ Crockery\/ Glassware\/ Cutlery & Utensils<\/p><p><\/p><p>From Tuesday 18\/7 to COB Saturday 22\/7<\/p>",
             "text_style": "body"
           }
         },
-        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-2": {
+        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-0",
-        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-1",
-        "template--15877769101499__2c630f26-328e-433f-a993-839aeb8e6dc9-168911391227a3c0fb-2"
+        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-0",
+        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-1",
+        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/360044325_234210059431633_7894948581674085950_n.jpg",
+        "image": "shopify:\/\/shop_images\/361642186_624099029818885_1178855297316636757_n.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -88,50 +88,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/thumbnail_IMG_8938.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "282d6794-3dc5-42ee-9df3-72aa5ee14571": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15877769101499__282d6794-3dc5-42ee-9df3-72aa5ee14571-168844421253863b1d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Half Price Sale on Mirrors!",
-            "heading_size": "h1"
-          }
-        },
-        "template--15877769101499__282d6794-3dc5-42ee-9df3-72aa5ee14571-168844421253863b1d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Commences Wednesday 4 July and finishes on close of business Saturday 8 July.<\/p><p><\/p><p>Half price on all mirrors, RRP $450, our price was $50, now $25.<\/p><p><\/p><p><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15877769101499__282d6794-3dc5-42ee-9df3-72aa5ee14571-168844421253863b1d-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15877769101499__282d6794-3dc5-42ee-9df3-72aa5ee14571-168844421253863b1d-0",
-        "template--15877769101499__282d6794-3dc5-42ee-9df3-72aa5ee14571-168844421253863b1d-1",
-        "template--15877769101499__282d6794-3dc5-42ee-9df3-72aa5ee14571-168844421253863b1d-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/357962079_821370286275061_3651339416189781936_n_1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -467,9 +423,8 @@
   },
   "order": [
     "main",
-    "2c630f26-328e-433f-a993-839aeb8e6dc9",
+    "3d0e7783-5c3e-4c05-94ed-c952c13bfbcb",
     "06b825c5-f7a8-44c5-b1bc-a954603e9a82",
-    "282d6794-3dc5-42ee-9df3-72aa5ee14571",
     "7c03e63a-e52b-439e-b741-6c82fcc449a7",
     "d9aaac7b-9163-4aa8-89c1-7e1318f91a2f",
     "f26f93ca-c4a6-4b5d-9dd4-8625f47ee78d",
