@@ -12,6 +12,50 @@
         "padding_bottom": 36
       }
     },
+    "efb97343-2237-494f-941b-64902250ded8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Half Price Sale: Crystalware & Vases",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Connected Inc is having a half price sale on all its Crystalware and Vases. <\/p><p>So save even more on our really competitive pricing! <\/p><p>Sale on these items continues to close of business this Saturday 12 August 2023.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-heading-1",
+        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-text-1",
+        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/365737158_676222594538385_1856823995636780339_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "2988a4e2-0a26-4ecf-b09e-0401bd300c70": {
       "type": "image-with-text",
       "blocks": {
@@ -47,50 +91,6 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "3d0e7783-5c3e-4c05-94ed-c952c13bfbcb": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Half Price Sale - Kitchen Stock",
-            "heading_size": "h1"
-          }
-        },
-        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Includes Plasticware\/ Crockery\/ Glassware\/ Cutlery & Utensils<\/p><p><\/p><p>From Tuesday 18\/7 to COB Saturday 22\/7<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-0",
-        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-1",
-        "template--15877769101499__3d0e7783-5c3e-4c05-94ed-c952c13bfbcb-16896369486f2678ac-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/361642186_624099029818885_1178855297316636757_n.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -467,8 +467,8 @@
   },
   "order": [
     "main",
+    "efb97343-2237-494f-941b-64902250ded8",
     "2988a4e2-0a26-4ecf-b09e-0401bd300c70",
-    "3d0e7783-5c3e-4c05-94ed-c952c13bfbcb",
     "06b825c5-f7a8-44c5-b1bc-a954603e9a82",
     "7c03e63a-e52b-439e-b741-6c82fcc449a7",
     "d9aaac7b-9163-4aa8-89c1-7e1318f91a2f",
