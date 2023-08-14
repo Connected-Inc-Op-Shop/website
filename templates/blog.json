@@ -12,24 +12,24 @@
         "padding_bottom": 36
       }
     },
-    "efb97343-2237-494f-941b-64902250ded8": {
+    "061e4830-375c-40b2-8d6b-c4762752dd80": {
       "type": "image-with-text",
       "blocks": {
-        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-heading-1": {
+        "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Half Price Sale: Crystalware & Vases",
+            "heading": "Half Price Sale: All Winter Clothing",
             "heading_size": "h1"
           }
         },
-        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-text-1": {
+        "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Connected Inc is having a half price sale on all its Crystalware and Vases. <\/p><p>So save even more on our really competitive pricing! <\/p><p>Sale on these items continues to close of business this Saturday 12 August 2023.<\/p>",
+            "text": "<p>Connected Inc has a Half Price Sale on all Winter Clothing throughout the rest of August.<\/p><p>There’s a great variety of stock at crazy prices!<\/p><p>As always, remember when you purchase items from us, you are directly contributing to our efforts to assist those in our community affected by Domestic Violence, Homelessness and the Disadvantaged.<\/p>",
             "text_style": "body"
           }
         },
-        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-button-1": {
+        "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-button-1": {
           "type": "button",
           "settings": {
             "button_label": "",
@@ -38,12 +38,12 @@
         }
       },
       "block_order": [
-        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-heading-1",
-        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-text-1",
-        "template--15877769101499__efb97343-2237-494f-941b-64902250ded8-button-1"
+        "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-heading-1",
+        "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-text-1",
+        "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/365737158_676222594538385_1856823995636780339_n.jpg",
+        "image": "shopify:\/\/shop_images\/366722472_680074540819857_6135371552785421834_n.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -467,7 +467,7 @@
   },
   "order": [
     "main",
-    "efb97343-2237-494f-941b-64902250ded8",
+    "061e4830-375c-40b2-8d6b-c4762752dd80",
     "2988a4e2-0a26-4ecf-b09e-0401bd300c70",
     "06b825c5-f7a8-44c5-b1bc-a954603e9a82",
     "7c03e63a-e52b-439e-b741-6c82fcc449a7",
