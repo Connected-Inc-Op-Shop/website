@@ -18,14 +18,14 @@
         "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Half Price Sale: All Winter Clothing",
+            "heading": "Half Price Sale - Storewide!",
             "heading_size": "h1"
           }
         },
         "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Connected Inc has a Half Price Sale on all Winter Clothing throughout the rest of August.<\/p><p>There’s a great variety of stock at crazy prices!<\/p><p>As always, remember when you purchase items from us, you are directly contributing to our efforts to assist those in our community affected by Domestic Violence, Homelessness and the Disadvantaged.<\/p>",
+            "text": "<p>Half Price Sale Storewide! (Some exclusions apply).<\/p><p>Connected Inc’s famous Half Price Sale is back on again for three days only.<\/p><p>Sale on Tuesday 29 August, Wednesday 30 August and Thursday 31 August 2023.<\/p>",
             "text_style": "body"
           }
         },
@@ -43,7 +43,7 @@
         "template--15877769101499__061e4830-375c-40b2-8d6b-c4762752dd80-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/366722472_680074540819857_6135371552785421834_n.jpg",
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_8869.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
