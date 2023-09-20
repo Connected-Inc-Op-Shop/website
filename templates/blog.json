@@ -18,14 +18,14 @@
         "template--15877769101499__f794fde5-7dde-493f-a716-8ca70f0261d9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Half Price All Mirrors",
+            "heading": "All Mirrors $20",
             "heading_size": "h1"
           }
         },
         "template--15877769101499__f794fde5-7dde-493f-a716-8ca70f0261d9-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Half Price Sale on all mirrors<\/p><p>RRP circa $400<\/p><p>Sale until the end of September<\/p>",
+            "text": "<p>All mirrors in store are $20<\/p><p>RRP circa $400<\/p><p>Sale until the end of September<\/p>",
             "text_style": "body"
           }
         },
