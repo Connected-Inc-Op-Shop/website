@@ -12,6 +12,50 @@
         "padding_bottom": 36
       }
     },
+    "68b65c63-30be-4325-b0fb-733c118861e9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__68b65c63-30be-4325-b0fb-733c118861e9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Aprons",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__68b65c63-30be-4325-b0fb-733c118861e9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our wonderful Staff and Volunteers have been supplied with new Aprons. The photo below shows Susie, Mel, Lee and Glenys. We think they look fantastic! Be sure to compliment them on your next visit<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__68b65c63-30be-4325-b0fb-733c118861e9-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__68b65c63-30be-4325-b0fb-733c118861e9-heading-1",
+        "template--15877769101499__68b65c63-30be-4325-b0fb-733c118861e9-text-1",
+        "template--15877769101499__68b65c63-30be-4325-b0fb-733c118861e9-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_9152.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "f794fde5-7dde-493f-a716-8ca70f0261d9": {
       "type": "image-with-text",
       "blocks": {
@@ -467,6 +511,7 @@
   },
   "order": [
     "main",
+    "68b65c63-30be-4325-b0fb-733c118861e9",
     "f794fde5-7dde-493f-a716-8ca70f0261d9",
     "061e4830-375c-40b2-8d6b-c4762752dd80",
     "06b825c5-f7a8-44c5-b1bc-a954603e9a82",
