@@ -37,12 +37,22 @@
             "row_content": "",
             "page": "item-donations-to-other-organisations"
           }
+        },
+        "3512c55d-a7cf-4059-a988-158e32e251f3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ETC Awards Connected Inc $40,000 from their ETC Community Support Fund",
+            "icon": "check_mark",
+            "row_content": "<h5>Connected Inc is happy to announce that ETC (Employment Taining Community) have awarded Connected Inc $40,000 from their Annual Community Support Fund.<\/h5><h5>Enterprise & Training Company (ETC) is a not-for-profit, community-oriented company with over 30 years of industry experience in employment, training, and business services.<br\/><br\/>ETC offers the following employment programs:<br\/><br\/>· Workforce Australia Employment Services<br\/><br\/>· Workforce Australia – Transition to Work<br\/><br\/>· Workforce Australia – Self-Employment Assistance<br\/><br\/>· Workforce Australia – Career Transition Assistance<br\/><br\/>· Disability Employment Services<br\/><br\/>They are a Registered Training Organisation (RTO 6998) and specialise in helping disadvantaged learners to up-skill to increase their employability.<br\/><br\/>As a not-for-profit organisation and registered charity, ETC has helped many organisations reduce disadvantage, generate opportunity, increase support services and\/or build capacity in the communities in which they operate through providing local community grants and sponsorships.<br\/><br\/>Since 2012, ETC given back $2 Million to a range of deserving organisations as part of their philanthropic commitment<\/h5><h5>As many of you may know, Connected Inc receives no government funding and is wholly dependent upon funds generated from our OP Shop to support those in our community affected by Domestic Violence, Homelessness and the Disadvantaged.<\/h5><h5><\/h5><h5>ETC's generous donation will go towards ensuring we can continue to meet our goals in providing donations and support to both our community and our customers.<\/h5>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-0",
         "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-1",
-        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-2"
+        "template--15877769527483__21850ebf-c447-4f2f-9e80-24072a563733-16758164555e5e73c4-2",
+        "3512c55d-a7cf-4059-a988-158e32e251f3"
       ],
       "settings": {
         "caption": "",
