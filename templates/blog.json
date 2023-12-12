@@ -12,6 +12,50 @@
         "padding_bottom": 36
       }
     },
+    "7b25a889-ab00-4357-9ad9-145e11e242d1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__7b25a889-ab00-4357-9ad9-145e11e242d1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Half Price Christmas Sale",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__7b25a889-ab00-4357-9ad9-145e11e242d1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everything in store half price commences Thursday 14 December 2023 and finishes close of business Friday 22 December 2023<br\/><br\/>We all know this is the one sale we look forward to – crazy pricing and real value for money on such items such as clothing, Manchester, Christmas decorations, toys, books and furniture.<br\/><br\/>Please also not Connected Inc will be closed from Saturday 21 December and reopens Tuesday 2 January 2024.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__7b25a889-ab00-4357-9ad9-145e11e242d1-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__7b25a889-ab00-4357-9ad9-145e11e242d1-heading-1",
+        "template--15877769101499__7b25a889-ab00-4357-9ad9-145e11e242d1-text-1",
+        "template--15877769101499__7b25a889-ab00-4357-9ad9-145e11e242d1-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/369796832_686405530186758_1358866328560223415_n.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "68b65c63-30be-4325-b0fb-733c118861e9": {
       "type": "image-with-text",
       "blocks": {
@@ -511,6 +555,7 @@
   },
   "order": [
     "main",
+    "7b25a889-ab00-4357-9ad9-145e11e242d1",
     "68b65c63-30be-4325-b0fb-733c118861e9",
     "f794fde5-7dde-493f-a716-8ca70f0261d9",
     "061e4830-375c-40b2-8d6b-c4762752dd80",
