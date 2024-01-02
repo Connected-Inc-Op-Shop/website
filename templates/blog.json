@@ -12,6 +12,50 @@
         "padding_bottom": 36
       }
     },
+    "e3d5bc44-e3d5-4174-8c93-8061e96d6540": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__e3d5bc44-e3d5-4174-8c93-8061e96d6540-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Donations to North Queensland Flood Victims",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__e3d5bc44-e3d5-4174-8c93-8061e96d6540-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Adam Taylor of IUIH (Institute for Urban Indigenous Health) met with Wayne Malmstone from Connected Inc.<br\/><br\/>Adam was presented with much needed clothing for some North Queensland residents who were being temporarily accommodated in Brisbane due to the severe flooding in North QLD.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__e3d5bc44-e3d5-4174-8c93-8061e96d6540-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__e3d5bc44-e3d5-4174-8c93-8061e96d6540-heading-1",
+        "template--15877769101499__e3d5bc44-e3d5-4174-8c93-8061e96d6540-text-1",
+        "template--15877769101499__e3d5bc44-e3d5-4174-8c93-8061e96d6540-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_IMG_9575.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "7b25a889-ab00-4357-9ad9-145e11e242d1": {
       "type": "image-with-text",
       "blocks": {
@@ -555,6 +599,7 @@
   },
   "order": [
     "main",
+    "e3d5bc44-e3d5-4174-8c93-8061e96d6540",
     "7b25a889-ab00-4357-9ad9-145e11e242d1",
     "68b65c63-30be-4325-b0fb-733c118861e9",
     "f794fde5-7dde-493f-a716-8ca70f0261d9",
