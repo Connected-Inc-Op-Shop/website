@@ -12,6 +12,50 @@
         "padding_bottom": 36
       }
     },
+    "fa0fe245-50b7-4675-913d-17bbd6655bce": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15877769101499__fa0fe245-50b7-4675-913d-17bbd6655bce-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Connected Inc Restocked",
+            "heading_size": "h1"
+          }
+        },
+        "template--15877769101499__fa0fe245-50b7-4675-913d-17bbd6655bce-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have been busy stocking our shop floor with many new items including fantastic summer clothing, vintage furniture, paintings and much more!<\/p><p>Come visit us and see why we are one of the most popular Op Shops in Brisbane!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15877769101499__fa0fe245-50b7-4675-913d-17bbd6655bce-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15877769101499__fa0fe245-50b7-4675-913d-17bbd6655bce-heading-1",
+        "template--15877769101499__fa0fe245-50b7-4675-913d-17bbd6655bce-text-1",
+        "template--15877769101499__fa0fe245-50b7-4675-913d-17bbd6655bce-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/414671829_335985919350468_8077328447089890181_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e3d5bc44-e3d5-4174-8c93-8061e96d6540": {
       "type": "image-with-text",
       "blocks": {
@@ -599,6 +643,7 @@
   },
   "order": [
     "main",
+    "fa0fe245-50b7-4675-913d-17bbd6655bce",
     "e3d5bc44-e3d5-4174-8c93-8061e96d6540",
     "7b25a889-ab00-4357-9ad9-145e11e242d1",
     "68b65c63-30be-4325-b0fb-733c118861e9",
