@@ -12,6 +12,50 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_gthb97": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bN3yQc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Connected Inc Awarded Grant From ETC",
+            "heading_size": "h1"
+          }
+        },
+        "text_Xy3hG8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Connected Inc is delighted to be the proud recipient of a grant from the ETC Community Support Fund.<\/p><p>Through their generous program of giving back to the local communities. ETC Community Support Fund has allowed us to make some significant changes. This includes more change rooms, improved ventilation, lighting throughout our facility and much more.<\/p><p>ETC - Employment and Training Company is a not-for-profit enterprise with a reputation as a high performing not-for-profit recruitment agency. They are a leading provider of employment, training and business services.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UXV4ew": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_bN3yQc",
+        "text_Xy3hG8",
+        "button_UXV4ew"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "fa0fe245-50b7-4675-913d-17bbd6655bce": {
       "type": "image-with-text",
       "blocks": {
@@ -643,6 +687,7 @@
   },
   "order": [
     "main",
+    "image_with_text_gthb97",
     "fa0fe245-50b7-4675-913d-17bbd6655bce",
     "e3d5bc44-e3d5-4174-8c93-8061e96d6540",
     "7b25a889-ab00-4357-9ad9-145e11e242d1",
